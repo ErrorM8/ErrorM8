@@ -1,7 +1,6 @@
 # Hi there 👋, my name is Sakif
 #### I am a Programmer
-![image](https://github.com/user-attachments/assets/d0ab6cc1-8603-48cb-8abd-00da30de46e6)
-)
+![image](https://github.com/user-attachments/assets/9894d4b4-955d-4edd-a92a-2c51df08c7ea)
 
 I'm student on computer science and Engineering.
 
