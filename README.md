@@ -2,7 +2,7 @@
 ## My self Sakif
 #### I am a Programmer
 
-![My Example GIF](https://raw.githubusercontent.com/yourusername/my-gifs/main/example.gif)
+![My GIF](https://raw.githubusercontent.com/yourusername/repositoryname/main/example.gif)
 I'm student on computer science and Engineering.
 
 
