@@ -1,7 +1,7 @@
 # Assalamualaikum 🫡, 
 ## My self Sakif
 #### I am a Programmer
-![image](https://github.com/user-attachments/assets/9894d4b4-955d-4edd-a92a-2c51df08c7ea)
+[![image](https://github.com/user-attachments/assets/9894d4b4-955d-4edd-a92a-2c51df08c7ea](https://images.app.goo.gl/GpFjQ6u38K8PRLEbA))
 
 I'm student on computer science and Engineering.
 
