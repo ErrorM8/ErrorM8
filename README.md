@@ -1,8 +1,8 @@
 # Assalamualaikum 🫡, 
 ## My self Sakif
 #### I am a Programmer
-https://images.app.goo.gl/pbtQMw4F4xFo851f6
 
+![My Example GIF](https://raw.githubusercontent.com/yourusername/my-gifs/main/example.gif)
 I'm student on computer science and Engineering.
 
 
