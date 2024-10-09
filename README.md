@@ -4,7 +4,6 @@ I am a Programmer
 
 ![download](https://github.com/user-attachments/assets/03845e5f-ed25-4bf9-b5b2-e4eb0fdba906)
 
-I'm student on computer science and Engineering.
 
 
 <h3 align="left">Languages and Tools:</h3>
