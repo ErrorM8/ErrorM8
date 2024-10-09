@@ -26,13 +26,14 @@ I'm student on computer science and Engineering.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ErrorM8)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorM8)](https://github.com/anuraghazra/github-readme-stats" alt="errorm8" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=errorm8&show_icons=true&locale=en&layout=compact" alt="errorm8" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=errorm8&show_icons=true&locale=en" alt="errorm8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=errorm8&" alt="errorm8" /></p>
 
+
 ![GitHub metrics](https://metrics.lecoq.io/ErrorM8)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ErrorM8)  
+ 
 
