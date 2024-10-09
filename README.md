@@ -1,37 +1,23 @@
-<h1 align="center">Assalamualaikum 🫡,</h1> <h2 align="center">My self Sakif</h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=errorm8&label=Profile%20views&color=0e75b6&style=flat" alt="errorm8" /> </p>
+# 💫 As-salamu Alaykum
+My self Sakif<br>I’m currently pursuing a Bachelor's degree in Computer Science and Engineering.
+
 I am a Programmer
 
 ![download](https://github.com/user-attachments/assets/03845e5f-ed25-4bf9-b5b2-e4eb0fdba906)
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sakibul.sakif) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bytehacker_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/error-mate) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Err0rM8) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ErrorM8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ErrorM8&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorM8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on Python 
-- 🌱 I’m currently learning BSc in CSE 
+---
+[![](https://visitcount.itsvg.in/api?id=ErrorM8&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/err0rm8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="err0rm8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/error-mate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="error-mate" height="30" width="40" /></a>
-<a href="https://fb.com/sakibul.sakif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakibul.sakif" height="30" width="40" /></a>
-<a href="https://instagram.com/bytehacker_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bytehacker_" height="30" width="40" /></a>
-</p> 
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ErrorM8)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=errorm8&show_icons=true&locale=en&layout=compact" alt="errorm8" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=errorm8&show_icons=true&locale=en" alt="errorm8" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=errorm8&" alt="errorm8" /></p>
-
-
-![GitHub metrics](https://metrics.lecoq.io/ErrorM8)  
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  
