@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 As-salamu alaykum
+
 🔍 Constantly learning, exploring new tools & frameworks<br>🎯 Passionate about solving problems and creating impact<br>🧠 Believer in lifelong learning and smart work<br>🤝 Open to collaboration and exciting projects!<br><br>Let’s connect and create something awesome together! 🌍✨
 
 ![download](https://github.com/user-attachments/assets/03845e5f-ed25-4bf9-b5b2-e4eb0fdba906)
